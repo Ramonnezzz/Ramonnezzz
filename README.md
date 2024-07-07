@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, BI, Data analysis with Python**
 
-- 📫 How to reach me **savioramonnogueira@arsstack.com**
+- 📫 How to reach me **[LinkTree](https://linktr.ee/ramonnezzz)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
